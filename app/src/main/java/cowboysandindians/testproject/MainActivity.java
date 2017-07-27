@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     /** Called when the user taps the Send button */
     public void sendMessage(View view) {
         // Do something in response to button}
+        // TODO THINGS
     }
 
 }
